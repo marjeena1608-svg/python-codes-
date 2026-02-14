@@ -61,3 +61,4 @@ l=int(input("enter the value of l:"))
 print(x+y+(x*2+(x*5-(3*y)+x)))
 
 
+
